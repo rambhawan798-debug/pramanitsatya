@@ -33,5 +33,5 @@ jobs:
             libportmidi-dev \
             libswscale-dev \
             libavformat-dev \
-            libavcodec-dev \
-            zlib1g-de…
+            libavcodec-dev 
+            
